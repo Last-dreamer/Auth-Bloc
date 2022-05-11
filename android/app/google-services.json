@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "283600547753",
+    "project_id": "auth-bloc-92ea0",
+    "storage_bucket": "auth-bloc-92ea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283600547753:android:9ba44bd9f8fd0ebfc7deb8",
+        "android_client_info": {
+          "package_name": "com.example.authbloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283600547753-5q28arq6cel7eghlvpmht2o30j8afft3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Rl1rTJccQCkJ1RUNIxFyU7yKmrKg7Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283600547753-5q28arq6cel7eghlvpmht2o30j8afft3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283600547753-vou75hp0455gf66eh3m6mshosdsj78un.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authbloc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
